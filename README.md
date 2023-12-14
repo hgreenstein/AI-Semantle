@@ -44,7 +44,7 @@ Before installation, ensure you have the following prerequisites installed on yo
 
 1. **Clone the Repository**:
    ```bash
-   git clone git@github.com:hgreenstein/AI-Semantle.git
+   git clone https://github.com/hgreenstein/AI-Semantle.git
    cd AI-Semantle
    ```
 2. **Install Dependencies**: AI Semantle relies on several Python libraries. These are listed in the `requirements.txt` file.
